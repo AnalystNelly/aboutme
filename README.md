@@ -1,8 +1,6 @@
-# aboutme
-
 ## Hey 👋, This is Nelis Irawati
 [![Gmail Badge](https://img.shields.io/badge/-awesome.nelis@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:awesome.nelis@gmail.com)](mailto:awesome.nelis@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/nelisirawati/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/nelisirawati//)](https://www.linkedin.com/in/https://www.linkedin.com/in/nelisirawati//) [![Github Badge](https://img.shields.io/badge/-AnalystNelly-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AnalystNelly/)](https://www.github.com/AnalystNelly/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://analystnelly.github.io/webportofolio//)](https://analystnelly.github.io/webportofolio//) <p align='left'>## Halo, Saya [Nama Anda]
+[![Linkedin Badge](https://img.shields.io/badge/-Nelis Irawati-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Nelis Irawati/)](https://www.linkedin.com/in/Nelis Irawati/) [![Github Badge](https://img.shields.io/badge/-AnalystNelly-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AnalystNelly/)](https://www.github.com/AnalystNelly/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://analystnelly.github.io/webportofolio//)](https://analystnelly.github.io/webportofolio//) <p align='left'>## Halo, Saya [Nama Anda]
 
 Saya adalah seorang Data Analyst dengan hasrat dalam menganalisis data untuk mendapatkan wawasan berharga dan mengambil keputusan yang didukung oleh fakta. Dengan latar belakang pendidikan di [Nama Universitas] dan pengalaman di berbagai proyek analisis data, saya percaya bahwa data adalah cerita yang menunggu untuk diungkap.
 
